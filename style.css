@@ -13,3 +13,14 @@ Text Domain:  Avada
     font-weight: 500 !important;
 }
 
+.fusion-header.fusion-sticky-shadow { height: 85px !important; }
+.fusion-header.fusion-sticky-shadow .fusion-logo {
+    margin-top: 15px !important;
+    margin-bottom: 15px !important;
+}
+
+@media only screen and (max-width: 767px) {
+    .fusion-header .fusion-logo {
+        margin: 12px 0 12px 0 !important;
+    }
+}
