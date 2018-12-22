@@ -23,6 +23,7 @@ Text Domain: Avada
 
 @media only screen and (max-width: 767px) { .fusion-header { padding-left: 0 !important; }
   .fusion-header .fusion-logo-background { background-color: black !important; }
-  .fusion-header .fusion-logo-background .fusion-logo { margin: 14px !important; }
+  .fusion-header .fusion-logo-background .fusion-logo { margin: 16px !important; }
+  .fusion-header .fusion-logo-background .fusion-logo .fusion-mobile-logo { height: 56px !important; }
   .fusion-header-has-flyout-menu .fusion-flyout-menu-icons .fusion-flyout-menu-toggle { height: 18px !important; width: 24px !important; }
   .fusion-header-has-flyout-menu .fusion-flyout-menu-icons .fusion-flyout-menu-toggle .fusion-toggle-icon-line { width: 24px !important; } }
