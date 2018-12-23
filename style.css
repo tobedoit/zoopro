@@ -15,15 +15,17 @@ Text Domain: Avada
 /* sticky 헤더 */
 .fusion-header.fusion-sticky-shadow { height: 90px !important; }
 
-.fusion-header.fusion-sticky-shadow .fusion-logo { margin: 15px !important; }
+.fusion-header.fusion-sticky-shadow .fusion-logo { margin: 17px !important; }
 
-.fusion-header.fusion-sticky-shadow .fusion-logo img.fusion-sticky-logo { height: 60px !important; }
+.fusion-header.fusion-sticky-shadow .fusion-logo img.fusion-sticky-logo { height: 56px !important; }
 
 .fusion-post-content-wrapper { padding-top: 16px !important; padding-bottom: 10px !important; }
 
 @media only screen and (max-width: 767px) { .fusion-header { padding-left: 0 !important; }
   .fusion-header .fusion-logo-background { background-color: black !important; }
-  .fusion-header .fusion-logo-background .fusion-logo { margin: 16px !important; }
+  .fusion-header .fusion-logo-background .fusion-logo { margin: 17px !important; }
   .fusion-header .fusion-logo-background .fusion-logo .fusion-mobile-logo { height: 56px !important; }
   .fusion-header-has-flyout-menu .fusion-flyout-menu-icons .fusion-flyout-menu-toggle { height: 18px !important; width: 24px !important; }
-  .fusion-header-has-flyout-menu .fusion-flyout-menu-icons .fusion-flyout-menu-toggle .fusion-toggle-icon-line { width: 24px !important; } }
+  .fusion-header-has-flyout-menu .fusion-flyout-menu-icons .fusion-flyout-menu-toggle .fusion-toggle-icon-line { width: 24px !important; }
+  .fusion-header-has-flyout-menu .fusion-flyout-menu .fusion-menu li { padding: 15px 0 !important; }
+  .fusion-header-has-flyout-menu .fusion-flyout-menu .fusion-menu li a { font-size: 24px !important; } }
