@@ -21,6 +21,8 @@ Text Domain: Avada
 
 .fusion-post-content-wrapper { padding-top: 16px !important; padding-bottom: 10px !important; }
 
+.fusion-sep-clear { height: 0 !important; }
+
 @media only screen and (max-width: 767px) { .fusion-header { padding-left: 0 !important; }
   .fusion-header .fusion-logo-background { background-color: black !important; }
   .fusion-header .fusion-logo-background .fusion-logo { margin: 17px !important; }
