@@ -19,7 +19,7 @@ Text Domain: Avada
 
 .fusion-header.fusion-sticky-shadow .fusion-logo img.fusion-sticky-logo { height: 56px !important; }
 
-/* Modal */
+/* Modals Cause Page to Scroll to Top on Mobile https://stackoverflow.com/questions/50646444/avada-wp-theme-bootstrap-modals-cause-page-to-scroll-to-top-on-mobile */
 .ua-mobile .modal-open { position: relative !important; }
 
 .fusion-post-content-wrapper { padding-top: 16px !important; padding-bottom: 10px !important; }
@@ -29,6 +29,8 @@ Text Domain: Avada
 /* Custom by Zmes */
 /* CTA BUTTON */
 .cta-button { padding: 40px 0 !important; border: none !important; }
+
+@media only screen and (max-width: 900px) { /* Modal */ }
 
 @media only screen and (max-width: 767px) { .fusion-header { padding-left: 0 !important; }
   .fusion-header .fusion-logo-background { background-color: black !important; }
