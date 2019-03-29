@@ -38,3 +38,5 @@ Text Domain: Avada
   .fusion-header-has-flyout-menu .fusion-flyout-menu-icons .fusion-flyout-menu-toggle .fusion-toggle-icon-line { width: 24px !important; }
   .fusion-header-has-flyout-menu .fusion-flyout-menu .fusion-menu li { padding: 15px 0 !important; }
   .fusion-header-has-flyout-menu .fusion-flyout-menu .fusion-menu li a { font-size: 24px !important; } }
+
+@media only screen and (max-width: 480px) { /* Modal */ }
